@@ -1,0 +1,1 @@
++ Configures dependencies for [[React]]
