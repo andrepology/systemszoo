@@ -7,8 +7,12 @@
         "id": "90a886668707b4a0",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "content/_index.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +89,7 @@
   },
   "active": "90a886668707b4a0",
   "lastOpenFiles": [
+    "content/_index.md",
     "content/notes/kanban.md",
     "screenshot.png"
   ]
